@@ -1,0 +1,11 @@
+{
+  "name": "piece-of-help",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Piece of Help community website",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
