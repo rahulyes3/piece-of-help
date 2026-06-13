@@ -521,15 +521,14 @@ a {
   gap: 14px;
 }
 
-.social-link,
-.contact-links a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 14px;
-  padding: 18px 20px;
-  border-radius: 18px;
-  font-weight: 800;
+.social-links a {
+  display: inline-block;
+  margin: 15px;
+  padding: 10px 15px;
+  background: #f2f2f2;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #333;
 }
 
 .social-link::after,
